@@ -1,22 +1,22 @@
 {
-	"name": "nkkollaw/reserved-subdomains",
+	"name": "midnightcloud/laravel-reserved-subdomains",
 	"description": "Subdomain validator for multitenant apps",
 	"version": "0.3.1",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Niccolò Brogi",
-			"email": "me@nbrogi.com"
+			"name": "Midnight Cloud",
+			"email": "support@midnightcloud.com"
 		}
 	],
-	"homepage": "https://github.com/nkkollaw/reserved-subdomains",
+	"homepage": "https://github.com/MidnightCloudAU/laravel-reserved-subdomains",
 	"autoload": {
 		"psr-4": {
 			"" : "php/src/"
 		}
 	},
 	"require": {
-		"symfony/yaml": "^3.2"
+		"symfony/yaml": "^6"
 	}
 }
 

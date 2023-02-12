@@ -1,5 +1,5 @@
 <?php
-namespace nkkollaw\Multitenancy\Validators;
+namespace MidnightCloud\Multitenancy\Validators;
 class Subdomain
 {
 
